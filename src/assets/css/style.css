@@ -1,0 +1,77 @@
+body{
+    background-color: #eeeeee;
+}
+
+.wel-text{
+    float:left;
+}
+
+.nav-container{
+    background-color: #061b30;
+    color: white;
+    height:45px;
+    padding-top: 10px;
+}
+
+.nav-info-left{
+    float:left;
+    padding-left:60px;
+}
+
+.nav-info-right{
+    float:right;
+    padding-right:20px;
+    margin-top:4px;
+}
+
+.nav-info-right span{
+    font-weight: bold;
+}
+
+.sidenav{
+    background-color: #173250;
+}
+
+.customRowTest{
+    background-color:black;
+}
+
+.body-padding-2half {
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    text-align: left;
+}
+
+.cardSpace{
+    padding-bottom: 20px;
+}
+
+.card-entity.card {
+    box-shadow: 1px 1px 3px;
+    cursor:pointer;
+    background-color: #173250;
+}
+
+.card-row-entity.row {
+    margin: 0px;
+}
+
+.card-body-entity.card {
+    border: none;
+    text-align: start;
+    padding: 4%;
+    height: 100%;
+    justify-content: space-between;
+    background-color: transparent;
+    color:white;
+}
+
+label.entity-title {
+    font-size: 20px;
+    margin-bottom: 3rem;
+}
+
+label.entity-date {
+    font-size: 12px;
+    font-weight: 700;
+}
